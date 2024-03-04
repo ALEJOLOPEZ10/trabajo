@@ -1,0 +1,14 @@
+Proceso EJERCICIO5
+	//definir variables
+	Definir nombredepersona, comidapreferida,cantidaddedinero como caracter;
+	//proceso
+	nombredepersona<- "alejo";
+	comidapreferida <- "lentejas" ;
+	cantidaddedinero <- " 1 millon 900 mil ";
+	//se imprime consola
+	Escribir " su nombre es; " , nombredepersona;
+	Escribir " su comida favorita es: " , comidapreferida;
+	Escribir " el dinero que posee es: " , cantidaddedinero;
+	
+	
+FinProceso
