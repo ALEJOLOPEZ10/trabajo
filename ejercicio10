@@ -1,0 +1,21 @@
+Proceso ejercicio10
+	
+	// definir variables
+	Definir alto Como Real;
+	Definir ancho Como Real;
+	Definir area, perimetro Como Real;
+	
+	//entrada 
+	Escribir  "digite el alto del rectangulo";
+	leer alto;
+	Escribir  "digite el ancho del rectangulo";
+	Leer ancho;
+	//Proceso 
+	perimetro<- 2 *alto+ancho;
+	area<- ancho * alto;
+	
+	Escribir "el perimetro del rectangulo es;" perimetro;
+	Escribir "el area del rectangulo es: " area;
+	
+	//salida
+FinProceso
