@@ -1,0 +1,15 @@
+Proceso ejercicio7
+	//definir variables
+	definir  A , B , resultado como real;
+	//se ingresa valor
+	Escribir "ingresa el primer numero";
+	leer A;
+	Escribir "ingresa el segundo numero";
+	leer B;
+	//Proceso 
+	resultado <- A + B;
+	// se imprime consola
+	Escribir " el resultado de sumar ambos numeros es: " , resultado;
+	
+	
+FinProceso
