@@ -1,0 +1,15 @@
+Proceso ejercicio9
+	//definir variables
+	Definir nombreestudiante Como Caracter;
+	Definir cantidadperdidas, cantidadganadas Como Entero;
+	//se ingresa valor
+	cantidadperdidas <- 3;
+	cantidadganadas <- 2 ;
+	//se pide datos al usuario
+	Escribir "ingresa el nombre del estudiante";
+	leer nombreestudiante;
+	//imprime consola
+	Escribir "tiene" , "materias peridas" , cantidadperdidas, "materias ganadas" , cantidadganadas;
+	
+	
+FinProceso
