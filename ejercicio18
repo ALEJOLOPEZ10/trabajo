@@ -1,0 +1,16 @@
+Proceso ejercicio18
+	//definimos variables
+	Definir num1 Como Real;
+	Escribir "inserta el primer numero";
+	Leer num1;
+	
+	//Proceso-salida
+	
+	si (num1> 0) Entonces
+		Escribir "el numero es positivo";
+	SiNo
+		Escribir "el numero es negativo";
+		
+	FinSi
+	
+FinProceso
