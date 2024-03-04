@@ -1,0 +1,15 @@
+Proceso ejercicio19
+	// definicion de variables
+	definir num1,num2, resto Como Entero;
+	//copiar los valores
+	Escribir "insertar los 2 numeros";
+	Leer num1,num2;
+	//proceso-salida
+	resto <- num1 % num2;
+	si(resto = 0) Entonces
+		Escribir num1, " es multiplo de: " , num2;
+	SiNo
+		Escribir num1, " no es multiplo de " , num2;
+	FinSi
+	
+FinProceso
