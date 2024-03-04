@@ -1,0 +1,11 @@
+Proceso ejercicio1
+	
+	//definir variables
+	definir horasestudio como real;
+	definir nombre como cadena;
+	horasestudio<- 9.5;
+	nombre <- "juan";
+	
+	Escribir "las horas de estudio son:", horasestudio;
+	Escribir "su nombre es", nombre;
+FinProceso
