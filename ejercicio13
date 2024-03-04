@@ -1,0 +1,11 @@
+Proceso ejercicio13
+	//definir variables
+	Definir radio_circulo, area Como Real;
+	//ingresar valor
+	Escribir "Ingresa el radio del circulo: ";
+	Leer radio_circulo;
+	//proceso
+	area <- PI * radio_circulo^2;
+	//se imprime consola
+	Escribir "El area del circulo es: ", area;
+FinProceso
