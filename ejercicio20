@@ -1,0 +1,13 @@
+Proceso ejercicio20
+	//definir las variables
+	Definir num1,num2 Como real;
+	//solicitar numeros por consola
+	Escribir "copiar 2 numeros";
+	Leer num1,num2;
+	//entrada-salida
+	si ( num1 > num2 )Entonces
+		Escribir " el " , num1 , " es mayor que " , num2;
+	FinSi
+	
+	
+FinProceso
