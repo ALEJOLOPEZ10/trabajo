@@ -1,0 +1,19 @@
+Proceso ejemplo6
+	Definir nombrepaciente, tiposangre, genero Como Caracter;
+	definir edad como entero;
+	definir estatura como real;
+	escribir "ingresa tu nombre";
+	leer nombrepaciente;
+	Escribir "ingresa tu edad";
+	leer edad;
+	escribir "ingresa tipo de sangre";
+	leer tiposangre;
+	Escribir "ingresa tu estatura";
+	Leer estatura;
+	Escribir "ingresa tu genero";
+	Leer genero;
+	escribir "tu nombre es " , nombrepaciente , " tu edad es " , edad , " tu tipo de sangre es " , tiposangre , " tu estatura es " , estatura , " tu genero es ", genero;
+	
+	
+	
+FinProceso
