@@ -1,0 +1,17 @@
+Proceso ejercicio21
+	//damos las variables
+	Definir num1,num2 Como Real;
+	//solicitar numeros
+	Escribir "ingresa los 2 numeros";
+	leer num1,num2;
+	//entrada-salida
+	si(num1 > num2) Entonces
+		Escribir "el" , num1, "es mayor que" , num2;
+	SiNo
+		si (num1=num2) Entonces
+			Escribir " los numeros son iguales ";
+		SiNo
+			Escribir " el " , num1, " es menor que el " , num2;
+		FinSi
+	FinSi
+FinProceso
