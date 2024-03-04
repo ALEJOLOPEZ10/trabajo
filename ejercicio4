@@ -1,0 +1,14 @@
+Proceso ejercicio4
+	//definir valor
+	Definir A , B, resultado como entero;
+	//se ingresa valor
+	Escribir "ingresa el primer numero: ";
+	leer A;
+	Escribir "ingresa el segundo numero: ";
+	leer B;
+	//proceso
+	resultado <- (A+B) * 2 + 10;
+	//se imprime la consola
+	Escribir " EL RESULTADO ES: " , resultado;
+	
+FinProceso
