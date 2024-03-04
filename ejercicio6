@@ -1,0 +1,18 @@
+Proceso ejercicio6
+	// se ponen las variables
+	definir nombrearticulo Como Cadena;
+	Definir cantidadacomprar Como Entero;
+	definir valorunitario, totalapagar Como Real;
+	// solicitar los datos al usuario
+	Escribir "cual es el articulo";
+	Leer nombrearticulo;
+	escribir "cuanto es el valor del aticulo";
+	leer valorunitario;
+	Escribir "cual es la cantidad a comprar";
+	leer cantidadacomprar;
+	Escribir "el nombre del articulo" , nombrearticulo;
+	totalapagar <- valorunitario * cantidadacomprar;
+	escribir "el total a pagar es" , totalapagar;
+	
+	
+FinProceso
