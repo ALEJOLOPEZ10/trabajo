@@ -1,0 +1,31 @@
+Proceso ejemplo5
+	Definir nombredelaprendiz,tipodedocumento,direccionresidencia, genero Como Caracter;
+	Definir documento, estrato Como Entero;
+	definir peso Como Real;
+	Definir estudio Como Logico;
+	estudio <- Falso;
+	escribir "ingresa tu nombre";
+	Leer nombredelaprendiz;
+	Escribir "tipodedocumento";
+	Leer tipodedocumento;
+	Escribir " ingresa la direccion de la residencia";
+	leer direccionresidencia;
+	Escribir "ingresa cual es tu genero";
+	Leer genero;
+	escribir "cual es tu documento";
+	leer documento;
+	Escribir "cual es tu estrato";
+	Leer estrato;
+	Escribir "cual es tu peso";
+	Leer peso;
+	Escribir " el aprendiz ha estudiado en el sena";
+	Leer estudio;
+	Escribir " cual es tu nombre " , nombredelaprendiz , " cual es tu tipo de documento " , tipodedocumento;
+	escribir " cual es tu direccion de residencia " , direccionresidencia , " cual es tu genero " , genero , "cual es tu numero de documento" , documento ;
+	escribir "cual es tu estrato" , estrato , " cual es tu peso" , peso , " has estudiado en el sena " , estudio;
+	
+	
+	
+	
+	
+FinProceso
