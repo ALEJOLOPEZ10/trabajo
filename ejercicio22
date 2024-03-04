@@ -1,0 +1,19 @@
+Proceso ejercicio22
+	//definir variables
+	Definir  num1, num2 Como Real;
+	//solicitar numeros
+	Escribir "insertar los 2 numeros";
+	leer num1,num2;
+	//entrada-salida
+	si (num1>num2) Entonces
+		Escribir "numero mayor: " , num1, "numero menor" , num2;
+	SiNo
+		si(num1 < num2)Entonces
+			Escribir " numero menor : " , num1 , "numero mayor : " , num2;
+		SiNo
+			si(num1=num2) Entonces
+				Escribir "el numero: ", num1 , "es igual que" , num2;
+			FinSi
+		FinSi
+	FinSi
+FinProceso
