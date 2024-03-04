@@ -1,0 +1,23 @@
+Proceso ejemplo3
+	//en una carcel se requiere un Algoritmo 
+	// que permita identificar 
+	//cuantas personas privadas de la libertad tiene la carcel
+    // el promedio de años de condena de la ppl
+	// el nombre de la carcel y direccion de la carcel.mostrar todos los datos
+	
+	Definir cantidadPPL Como Entero;
+	Definir proanosPPL Como real;
+	Definir nombrecarcel como cadena;
+	Definir direccion como cadena;
+	cantidadPPL<- 1200;
+	proanosPPL<- 8;
+	nombrecarcel<- "la blanca";
+	direccion<- "calle10c #32a33";
+	Escribir "la cantidad de ppl es", cantidadPPL;
+	Escribir "el promedio de los ppl es", proanosPPL;
+	Escribir "el nombre de la carcel es", nombrecarcel;
+	Escribir "cual es la diereccion de la carcel", direccion;
+	
+	
+	
+FinProceso
