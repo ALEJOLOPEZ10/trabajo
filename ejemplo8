@@ -1,0 +1,12 @@
+Proceso ejemplo8
+	//condicional simple 1
+	//definicion/declaracion de variable
+	Definir estadoclima como cadena;
+	estadoclima<- "lluvias";
+	si (estadoclima= "lluvias") Entonces
+		Escribir "sacar sombrilla";
+		
+	FinSi
+	Escribir "caminar por la calle";
+	
+FinProceso
