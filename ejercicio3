@@ -1,0 +1,15 @@
+Proceso ejercicio3
+	//definir las variables
+	Definir promedio como real;
+	Definir nombre como caracter;
+	Definir notas_perdidas como entero;
+	//proceso
+	promedio <- 3.6;
+	nombre <- "alejo" ;
+	notas_perdidas <- 2;
+	//se imprime la consola
+	Escribir "su promedio de notas es: " , promedio;
+	Escribir "su nombre es: " , nombre;
+	Escribir "sus notas perdidas en total son: " , notas_perdidas;
+	
+FinProceso
