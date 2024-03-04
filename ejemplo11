@@ -1,0 +1,21 @@
+Proceso ejemplo11
+	// condicional doble 2
+	// se tiene el resultado de un examen para un 
+	// aprendiz. si la nota es menor a 3, es decir que la
+	// perdio, de lo contrario mostrar que si gano
+	// la nota
+	
+	//definir variables
+	definir nota Como Real;
+	Escribir "digite su nota";
+	leer nota;
+	//proceso-salida
+	Escribir "bienvenido al sena";
+	si(nota <3) Entonces
+		Escribir "perdio la nota";
+	SiNo 
+		Escribir "gano la nota";
+	FinSi
+	
+	
+FinProceso
