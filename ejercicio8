@@ -1,0 +1,14 @@
+Proceso ejercicio8
+	//definir variables
+	definir nombrepersona Como Caracter;
+	definir numerohoras Como Real;
+	//se pide datos al usuario
+	
+	Escribir "ingresa u nombre";
+	leer nombrepersona;
+	Escribir " ingresa el total de horas que estudia en la semana";
+	leer numerohoras;
+	//se imprime la consola
+	escribir " su nombre es: " , nombrepersona , " y estudia a la semana " , numerohoras, "horas";
+	
+FinProceso
