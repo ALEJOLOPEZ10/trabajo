@@ -1,0 +1,14 @@
+Proceso ejemplo4
+	// declaracion/ definicion de variables
+	definir x,a Como Real;
+	// entrada de datos
+	Escribir " digite el valor del numero";
+	Leer a;
+	
+	// proceso, operaciones o formulas
+	x <- 2*a + a * 5;
+	
+	//salida de datos
+	Escribir "el resultado de la operacion", x;
+	
+FinProceso
